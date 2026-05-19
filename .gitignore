@@ -1,0 +1,11 @@
+# Frontend
+fitness (frontend)/node_modules
+fitness (frontend)/dist
+
+# Backend
+fitness-system-backend/target
+
+# Common
+.env
+.idea
+.vscode
